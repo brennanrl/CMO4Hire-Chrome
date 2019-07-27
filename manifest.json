@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name" : "Content settings",
+  "version" : "0.2",
+  "description" : "Shows the content settings for the current site.",
+  "permissions": [ "contentSettings", "tabs" ],
+  "background": {
+    "scripts": ["background.js"]
+    
+    
+  },
+  "browser_action": {
+     "default_icon": "contentSettings.png"
+     
+     
+     
+  }
+  
+}
