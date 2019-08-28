@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name" : "Content settings",
+  "name" : "CMO4Hire",
   "version" : "0.2",
-  "description" : "Shows the content settings for the current site.",
+  "description" : "CMO4Hire link thing",
   "permissions": [ "contentSettings", "tabs" ],
   "background": {
     "scripts": ["background.js"]
@@ -10,7 +10,9 @@
     
   },
   "browser_action": {
-     "default_icon": "contentSettings.png"
+     "default_icon": "cmo.png",
+     "default_popup": "login.html"
+     
      
      
      

@@ -1,0 +1,64 @@
+#tryAgainButton {
+    width: 6em;
+    border: 2px solid green;
+    background: #ffe;
+    border-radius: 5px;
+    
+    margin-bottom: 8px;
+    
+}
+#newAccountButton1 {
+    color: #791417;
+    
+}
+
+#tryAgainButton1 {
+    color: #791417;
+}
+
+#para1 {
+    white-space: nowrap;
+}
+#para2 {
+    text-align: center;
+    white-space: nowrap;
+}
+
+#newAccountButton {
+    width: 6em;
+    border: 2px solid green;
+    background: #ffe;
+    border-radius: 5px;
+    
+    
+}
+
+a {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 5px;
+    color: #791417;
+    text-decoration-color: #791417;
+    
+}
+a:hover {
+    color: red;
+    background: #eff;
+}
+
+h2 {
+    color: #791417;
+    text-align: center;
+    white-space: nowrap;
+}
+
+hr {
+    width: 80%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: transparent;
+    color: #791417;
+}
